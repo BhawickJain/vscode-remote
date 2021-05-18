@@ -1,3 +1,4 @@
 FROM python
 WORKDIR /usr/workspace
+COPY /workspace/requirements.txt .
 CMD ["python", "-v"]

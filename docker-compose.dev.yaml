@@ -8,3 +8,4 @@ services:
     volumes:
       - ./workspace:/usr/workspace/
     stdin_open: true
+    command: pip install -r requirements.txt
