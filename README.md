@@ -34,6 +34,6 @@ You will be prompted in bottom left corner that VS Code has detected a `.devcont
 [[vsc-remote](https://code.visualstudio.com/docs/remote/remote-overview)] VS Code Remote Development — VS Code Docs  
 [[vsc-running](https://code.visualstudio.com/docs/remote/attach-container)] Attach to a running container — VS Code Docs  
 [[vsc-python](https://code.visualstudio.com/docs/python/python-tutorial)] VS Code intro to Python — VS Code Docs  
-[[vsc-cpp](https://code.visualstudio.com/docs/cpp/introvideos-cpp)] VS Code Intro to Python — VS Code Docs
+[[vsc-cpp](https://code.visualstudio.com/docs/cpp/introvideos-cpp)] VS Code Intro to Python — VS Code Docs  
 [[vsc-advconfig](https://code.visualstudio.com/docs/remote/containers-advanced)] Advanced Container Configuration — VS Code  
 [[vs-ext-remotedev](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.vscode-remote-extensionpack)] Remote Development — (Visual Studio Code Extension Packs)  
