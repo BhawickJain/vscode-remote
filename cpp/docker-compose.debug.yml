@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  cpp:
+    image: cpp
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    stdin_open: true
