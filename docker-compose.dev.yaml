@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  app:
+    build:
+      context: .
+      dockerfile: docker-compose.dev.yaml
+    volumes:
+      - /workspace:/usr/workspace/
+    stdin_open: true
